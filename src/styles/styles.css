@@ -1,0 +1,21 @@
+.paper{
+    background-color: red;
+    height: auto;
+    width: auto;
+    padding: initial;
+    margin: auto;
+    text-align: center;
+}
+.paperNote{
+    padding: 20px;
+    color: beige;
+
+}
+.navLinks{
+    color: white;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: none;
+}
+body{
+}
